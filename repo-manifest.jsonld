@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-hijack/django-hijack/commit/c0bfe94e9fa9944195e8995e1c0fe9e642f81cac",
       "git:hexsha": "c0bfe94e9fa9944195e8995e1c0fe9e642f81cac",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:20:39.457826+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-hijack/django-hijack/commit/054243640252259d1dfb6a25320295d6d1a6dc04",
