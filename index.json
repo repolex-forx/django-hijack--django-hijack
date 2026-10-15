@@ -1,0 +1,11 @@
+{
+  "org": "django-hijack",
+  "repo": "django-hijack",
+  "versions": [
+    {
+      "commit": "c0bfe94e9fa9944195e8995e1c0fe9e642f81cac",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:20:39.538785+00:00"
+    }
+  ]
+}
